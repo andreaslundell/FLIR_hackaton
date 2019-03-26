@@ -1,1 +1,1 @@
-# FLIR_hackaton
+# FLIR AX8 hackaton
